@@ -1,1 +1,2 @@
-Reviewing Python Fundamentals in my Free Time
+> Socratica
+> Reviewing Python's fundamental functions and data structures
